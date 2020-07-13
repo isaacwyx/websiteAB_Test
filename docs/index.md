@@ -627,7 +627,7 @@ plt.legend();
 ```
 
 
-![png](output_57_0.png)
+![png](output_58_0.png)
 
 
 2J. What proportion of the **p_diffs** are greater than the actual difference observed in **ab_data.csv**?
